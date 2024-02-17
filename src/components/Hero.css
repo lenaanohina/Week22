@@ -1,0 +1,16 @@
+.hero-card {
+  border: 3px solid rgb(191, 186, 186);
+  border-radius: 10px;
+  max-width: 430px;
+  margin: 10px;
+  padding: 15px;
+}
+.hero-img {
+  width: 100%;
+}
+.hero-info {
+  height: 200px;
+}
+p {
+  margin: 5px;
+}
